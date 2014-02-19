@@ -1,4 +1,4 @@
-package com.TestMaven;
+package MultiThreadingClass;
 
 public class MultiThreadingClass implements Runnable {
 
